@@ -1,0 +1,49 @@
+/* Basic Colors */
+body {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+  }
+  
+  /* Primary Colors */
+  .primary-color {
+    color: #3498db; /* Blue */
+  }
+  
+  .primary-bg {
+    background-color: #3498db; /* Blue */
+  }
+  
+  /* Secondary Colors */
+  .secondary-color {
+    color: #e74c3c; /* Red */
+  }
+  
+  .secondary-bg {
+    background-color: #e74c3c; /* Red */
+  }
+  
+  /* Accent Colors */
+  .accent-color {
+    color: #27ae60; /* Green */
+  }
+  
+  .accent-bg {
+    background-color: #27ae60; /* Green */
+  }
+  
+  /* Neutral Colors */
+  .neut
+
+/* Add your custom styles here if needed */
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    body {
+      padding: 20px;
+    }
+  
+    .card {
+      width: 100%;
+    }
+  }
+  
